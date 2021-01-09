@@ -109,15 +109,17 @@ var verifyNickname = function (nick) {
 }
 
 var frontpage = [
-	"                            _           _         _       _   ",
-	"                           | |_ ___ ___| |_   ___| |_ ___| |_ ",
-	"                           |   |_ ||  _| '_| |  _|   |_ ||  _|",
-	"                           |_|_|__/|___|_,_|.|___|_|_|__/|_|  ",
+	"  _____  _             _  _____ _           _   ",
+	" |  __ \\| |           (_)/ ____| |         | |  ",
+	" | |__) | | __ _ _ __  _| |    | |__   __ _| |_ ",
+	" |  ___/| |/ _` | '_ \\| | |    | '_ \ / _` | __|",
+	" | |    | | (_| | | | | | |____| | | | (_| | |_ ",
+	" |_|    |_|\\__,_|_| |_|_|\\_____|_| |_|\\__,_|\\__|",
 	"",
-	"",
-	"Welcome to hack.chat, a minimal, distraction-free chat application.",
+	""
+	"Welcome to Planichat, a minimal, distraction-free chat application based on hack.chat.",
 	"Channels are created, joined and shared with the url, create your own channel by changing the text after the question mark.",
-	"If you wanted your channel name to be 'your-channel': https://hack.chat/?your-channel",
+	"If you wanted your channel name to be 'your-channel': https://pixlchat.loca.lt/?your-channel",
 	"There are no channel lists, so a secret channel name can be used for private discussions.",
 	"",
 	"Here are some pre-made channels you can join:",
